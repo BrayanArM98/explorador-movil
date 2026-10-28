@@ -4,9 +4,13 @@
   "main": "index.js",
   "dependencies": {
     "expo": "~58.0.20",
+    "expo-camera": "~58.0.13",
+    "expo-location": "~58.0.19",
+    "expo-sensors": "~58.0.4",
     "expo-status-bar": "~58.0.4",
     "react": "19.3.0",
-    "react-native": "0.88.0"
+    "react-native": "0.88.0",
+    "react-native-safe-area-context": "~5.10.1"
   },
   "scripts": {
     "start": "expo start",
